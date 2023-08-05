@@ -1,0 +1,23 @@
+body {
+  margin-left: 50px;
+  margin-top: 30px;
+  padding: 5px;
+  background-color: rgb(221, 218, 218);
+  font-size: 20px;
+}
+
+input {
+  padding: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.nevidljiv {
+  visibility: hidden;
+}
+
+#submit {
+  width: 100px;
+  background-color: rgb(145, 200, 236);
+  margin-left: 40px;
+}

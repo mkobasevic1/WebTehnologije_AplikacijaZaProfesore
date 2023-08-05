@@ -1,0 +1,21 @@
+[
+    {
+    "nastavnik": {
+    "username": "nastavnik1",
+    "password_hash": "$2a$10$24Wk//ATPQio1APPSZIAceIzXO/OzIuIV2358.WX6uF2C8mjLAQ26"
+    },
+    "predmeti": [
+    "WT",
+    "RMA"
+    ]
+    },
+    {
+    "nastavnik": {
+    "username": "nastavnik2",
+    "password_hash": "$2a$10$QormPHXZBZ7u91B1GQNFkOmyDNCh729dNvfI559/GcgHezq5/c8QK"
+    },
+    "predmeti": [
+    "RMA"
+    ]
+    }
+]

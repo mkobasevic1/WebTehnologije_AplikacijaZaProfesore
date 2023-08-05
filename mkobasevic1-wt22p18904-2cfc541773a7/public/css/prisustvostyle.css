@@ -1,0 +1,44 @@
+body {
+  padding: 10px;
+}
+.zelena {
+  background-color: rgb(115, 168, 115);
+}
+.crvena {
+  background-color: lightcoral;
+}
+table,
+td,
+th {
+  border: 1px solid;
+  padding: 10px;
+}
+table {
+  border-collapse: collapse;
+  white-space: nowrap;
+}
+td {
+  text-align: center;
+  vertical-align: top;
+}
+.ostatak {
+  width: 150px;
+}
+
+.bez_rubova {
+  border-left: 0px;
+  border-right: 0px;
+}
+button {
+  border-radius: 10px;
+  border: 0px;
+  background-color: rgb(130, 164, 236);
+  margin-top: 10px;
+  margin-left: 150px;
+}
+button:hover {
+  background-color: rgb(95, 143, 248);
+}
+
+@media screen and (max-width: 700px) {
+}

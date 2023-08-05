@@ -1,0 +1,26 @@
+.vertical-menu input {
+  width: 200px;
+  background-color: rgb(192, 192, 192);
+  color: black;
+  display: block;
+  padding: 5px;
+  margin: 2px;
+  border: none;
+  border-radius: 5px;
+}
+
+.vertical-menu input:hover {
+  background-color: rgb(143, 143, 143);
+}
+
+.vertical-menu input:focus {
+  background-color: #678b7e;
+  color: white;
+}
+
+#logout {
+  background-color: rgb(240, 205, 92);
+}
+#logout:hover {
+  background-color: rgb(224, 187, 66);
+}

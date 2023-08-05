@@ -1,0 +1,1 @@
+Pri prvom korištenju potrebno je prije svega pozvati skriptu napuniBazu.js koja popunjava bazu inicijalnim podacima, a nakon toga program se svaki put pokreće sa index.js
